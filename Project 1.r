@@ -1,6 +1,6 @@
 system("hostname", intern=TRUE)
 
-#The name of the node on Anvil that you are running on is "a240.anvil.rcac.purdue.edu"!
+#The name of the node on Anvil that you are running on is "a240.anvil.rcac.purdue.edu"
 
 # Subcluster A
 1000 * 128
